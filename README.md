@@ -13,4 +13,4 @@ The model ends up overfitting quite a bit since its training loss is much less t
 
 References:  
 Attention is All you Need by Ashish Vaswant  
-Andrew Karpthay's video https://www.youtube.com/watch?v=kCc8FmEb1nY&t=5402s
+Andrej Karpthay's video https://www.youtube.com/watch?v=kCc8FmEb1nY&t=5402s
